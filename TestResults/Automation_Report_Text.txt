@@ -1,0 +1,37 @@
+VerifyAGDATAJobs Verification of AGDATA List of Jobs
+LOG INFO -> Open Chrome browser and launch AGDATA website.
+LOG INFO -> Test Started => URL: https://www.agdata.com/
+LOG INFO -> Browser: CHROME
+LOG INFO -> Navigate to Careers tab
+LOG INFO -> Update page frame
+LOG INFO -> Fetch all the listed jobs
+LOG INFO -> Available listed jobs are : 
+LOG INFO -> 0. Data Operations Director
+LOG INFO -> 1. Associate Software Engineer
+LOG INFO -> 2. IT Systems Administrator
+LOG INFO -> 3. Recruiter
+LOG INFO -> 4. Software Design Engineer in Test II
+LOG INFO -> 5. Software Engineer
+LOG INFO -> 6. SQL Developer
+LOG INFO -> 7. Sr. Software Design Engineer in Test
+LOG INFO -> 8. Sr. Software Engineer
+LOG INFO -> 9. Oracle Database Developer - Team Lead
+LOG INFO -> 10. Principal Software Engineer
+LOG INFO -> 11. Senior Product Manager – Data Management Solutions
+LOG INFO -> 12. Senior Product Manager – Marketing Program Management Solutions
+LOG INFO -> 13. Senior Software Engineer
+LOG INFO -> 14. Software Development Technical Lead
+LOG INFO -> 15. Oracle Database Developer - Team Lead
+LOG INFO -> 16. Principal Software Engineer
+LOG INFO -> 17. Senior Product Manager – Data Management Solutions
+LOG INFO -> 18. Senior Product Manager – Marketing Program Management Solutions
+LOG INFO -> 19. Senior Software Engineer
+LOG INFO -> 20. Software Development Technical Lead
+LOG INFO -> 21. Data Operations Director
+LOG INFO -> 22. Payment Operations Team Lead
+LOG INFO -> 23. Principal Software Engineer
+LOG INFO -> 24. Senior Product Manager – Marketing Program Management Solutions
+LOG INFO -> Navigate to Job : Associate Software Engineer
+LOG TEST -> Job Description has been displayed.
+LOG TEST -> Apply button is present in the page.
+LOG TEST -> Job Description has been verified successfully.

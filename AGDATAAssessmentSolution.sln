@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AGDATAAutomationProject", "AGDATAAutomationProject\AGDATAAutomationProject.csproj", "{BCB06F46-12C2-48AC-B602-762E71F593F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharpAutomationProject", "RestSharpAutomationProject\RestSharpAutomationProject.csproj", "{D214DDB1-3392-4CE4-805C-97F9641CF397}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCB06F46-12C2-48AC-B602-762E71F593F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCB06F46-12C2-48AC-B602-762E71F593F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCB06F46-12C2-48AC-B602-762E71F593F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCB06F46-12C2-48AC-B602-762E71F593F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D214DDB1-3392-4CE4-805C-97F9641CF397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D214DDB1-3392-4CE4-805C-97F9641CF397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D214DDB1-3392-4CE4-805C-97F9641CF397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D214DDB1-3392-4CE4-805C-97F9641CF397}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {810797AA-147A-4686-B919-7DECBAD1BBF1}
+	EndGlobalSection
+EndGlobal
